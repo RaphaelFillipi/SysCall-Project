@@ -1,0 +1,9 @@
+[submodule "mfe-auth"]
+	path = mfe-auth
+	url = https://github.com/RaphaelFillipi/SysCall-Auth.git
+[submodule "mfe-agenda"]
+	path = mfe-agenda
+	url = https://github.com/RaphaelFillipi/SysCall-Agenda.git
+[submodule "mfe-root"]
+	path = mfe-root
+	url = https://github.com/RaphaelFillipi/SysCall-Root.git
