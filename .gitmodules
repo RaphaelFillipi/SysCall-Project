@@ -7,3 +7,6 @@
 [submodule "mfe-root"]
 	path = mfe-root
 	url = https://github.com/RaphaelFillipi/SysCall-Root.git
+[submodule "mfe-sidebar"]
+	path = mfe-sidebar
+	url = https://github.com/RaphaelFillipi/SysCall-Sidebar.git
