@@ -10,3 +10,6 @@
 [submodule "mfe-sidebar"]
 	path = mfe-sidebar
 	url = https://github.com/RaphaelFillipi/SysCall-Sidebar.git
+[submodule "mfe-call-history"]
+	path = mfe-call-history
+	url = https://github.com/RaphaelFillipi/SysCall-History.git
