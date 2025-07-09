@@ -13,3 +13,6 @@
 [submodule "mfe-call-history"]
 	path = mfe-call-history
 	url = https://github.com/RaphaelFillipi/SysCall-History.git
+[submodule "mfe-profile"]
+	path = mfe-profile
+	url = https://github.com/RaphaelFillipi/SysCall-Profile.git
