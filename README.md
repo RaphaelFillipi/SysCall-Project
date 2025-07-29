@@ -33,7 +33,7 @@ Refere-se ao menu lateral que irá constituir toda as partes da aplicação em q
 
 ### **mfe-agenda**
 
-Esse módulo é a home do SysCall. Nele, é possível adicionar contatos, visualizar contatos cadastrados, efetuar ligações através de um teclado virtual, tanto para contatos já cadastrados quanto para números de telefones não registrados através, filtrar todos os contatos, somente os bloqueados ou ainda os não bloqueados, bem como ordenar os nomes de contato em ordem crescente ou decrescente.
+Esse módulo é a home do SysCall. Nele, é possível adicionar contatos, visualizar contatos cadastrados, efetuar ligações através de um teclado virtual, tanto para contatos já cadastrados quanto para números de telefones não registrados, filtrar todos os contatos, somente os bloqueados ou ainda os não bloqueados, bem como ordenar os nomes de contato em ordem crescente ou decrescente.
 
 ### **mfe-profile**
 
